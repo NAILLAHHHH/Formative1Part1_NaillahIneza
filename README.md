@@ -6,7 +6,7 @@ What I built, following the guide in order.
 
 `main.py` trains the AND gate with one linear layer, sigmoid and binary cross-entropy. XOR would not work with a single layer, so I did not use it. `accuracy()` calls `train()` itself if nothing has been trained yet.
 
-From this folder, environment `iml-formative1`:
+From this folder, environment `Formative1Part1_NaillahIneza`:
 
 ```bash
 pytest
